@@ -1,0 +1,13 @@
+{
+  "name": "comidastipicas",
+  "version": "1.0.0",
+  "description": "comidastipicasdonordeste",
+  "main": "index.html",
+  "scripts": 
+
+  "keywords": [
+    "Comidas"
+  ],
+  "author": "Maria Eduarda",
+  "license": "ISC"
+}
